@@ -1,0 +1,88 @@
+
+body {
+	font-family: "Crimson Text", "Times New Roman", serif;
+	background-color: #F2FFFC;
+	font-size: 120%;
+    line-height: 1.5;
+}
+
+main {
+    width: 80%;
+    float: left;
+    padding-bottom: 80px;
+}
+
+main div {
+	width: 720px;
+	margin: auto;
+	padding: 30px 0;
+}
+
+.result {
+    display: block;
+    border: 2px solid black;
+    background-color: #FAFFFC;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 16px;
+    /*margin-right: 16px;*/
+    margin-bottom: 16px;
+
+}
+
+#result1 {
+    overflow: auto;
+    display: block;
+    border: 2px solid black;
+    background-color: #FAFFFC;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 16px;
+    margin-bottom: 16px;
+}
+
+img {
+    width: 30%;
+    float: left;
+    margin: 0 20px 20px 0;
+}
+
+p {
+    text-align: justify;    
+}
+
+aside {
+	background-color: #947bbd;
+	color: #F2FFFC;
+}
+aside a {
+	color: inherit;
+	font-family: "Open Sans Condensed", sans-serif;
+}
+aside {
+	text-align: center;
+}
+
+aside h1 {
+	font-size: 30px;
+	margin-bottom: 9px;
+}
+aside li {
+	display: inline-block;
+}
+aside {
+    width: 20%;
+    float: right;
+}
+aside {
+    box-sizing: border-box;
+}
+aside {
+    
+    top: 200px;
+}
+
+aside div p{
+    color: inherit;
+    font-family: "Open Sans Condensed", sans-serif;
+}
